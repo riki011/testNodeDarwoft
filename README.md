@@ -1,2 +1,2 @@
 # testNodeDarwoft
-#instalar node modules .. 
+#instalar node modules =  npm install
